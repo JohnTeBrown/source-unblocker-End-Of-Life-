@@ -9,5 +9,5 @@ jobs:
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: 'release.zip'
+        filename: 'SRC-Unlock-ProgramData.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
