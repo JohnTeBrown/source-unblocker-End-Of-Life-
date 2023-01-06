@@ -1,0 +1,4 @@
+action "Setup" {
+  uses = "jcblw/bash@master"
+  args = ["zip SRC-Unlock-ProgramData"]
+}
