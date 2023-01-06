@@ -1,5 +1,5 @@
 # src-unloocker
-By Impulse-LLC
+#### By Impulse-LLC
 
 The Unblocker Is Powered By Inject0r:
 
@@ -17,10 +17,11 @@ Password: pass
 * Download the zip from releases and follow the README.txt file instructions
 
 ----
-### Source Code For devs
+### Info For Developers.
 
 * Download the repo as a zip file
 * Feel free to edit the sourcecode how ever you want
 * Run npm install
+* Run Coffee --compile cocobuild.coffee
 * Enjoy
 ----
