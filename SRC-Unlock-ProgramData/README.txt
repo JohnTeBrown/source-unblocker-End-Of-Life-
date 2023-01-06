@@ -10,6 +10,8 @@ For people with access with the linux beta please install node.js and install co
 please then run the buildscript included within the project folder.
 
 "Coffee --compile cocobuild.coffee"
+
+please then also run "npm install"
 -----------------------------------
 
 DO NOT EDIT OR DELETE PROGRAM FOLDERS OR FILES UNLESS U KNOW WTF UR DOING.
