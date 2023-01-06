@@ -13,7 +13,7 @@ Password: pass
 
 ----
 
-* Download the zip and follow the README.txt file instructions
+* Download the zip from releases and follow the README.txt file instructions
 
 ----
 ### Source Code For devs
