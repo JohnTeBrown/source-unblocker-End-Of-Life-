@@ -14,8 +14,8 @@ Password: pass
 
 ----
 
-* Download the zip from releases and follow the README.txt file instructions
-
+* Download the latest zip from releases and follow the README.txt file instructions
+* open a issue on this github if you encounter errors
 ----
 ### Info For Developers.
 
