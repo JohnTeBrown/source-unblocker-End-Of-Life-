@@ -6,13 +6,11 @@ The Unblocker Is Powered By Inject0r:
 https://github.com/Paragramex/inject0r
 
 ----
-### Unblocker Incorrect Login Error Fix:
+### Unblocker Login
 
-Currently the guest login is broken
-register a account on the inject0r website using their discord 
-and use your user token they give you to create a inject0r account
-from there use your created account to login.
+Username: guest
 
+Password: Pass
 
 
 ----
