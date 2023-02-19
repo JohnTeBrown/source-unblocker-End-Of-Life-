@@ -1,4 +1,0 @@
-this is where Web assembly will be written, currently WASM is disabled as the linux
-beta is blocked therfore go or rust cannot be installed, but wasm binarys will be stored here.
-
-- regards Impulse admin.
