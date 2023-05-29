@@ -1,6 +1,6 @@
 # src-unloocker [END OF LIFE]
 #### By Impulse-LLC
-**This Project Was Merely Something Done For Fun And Joy, Members Of D&R Studios Are Still In School So To Make Their Lives Easier We Made A Anti-Blocking Tool, As Of Right Now All Members Have Either Voted That It Was No Longer Worth The Time/Effort To Maintain the Tool Or The Members Who Actually Used The Tool Have Graduated**
+**This Project Was Merely Something Done For Fun And Joy, Members Of D&R Studios Are Still In School So To Make Their Lives Easier We Made A Anti-Blocking Tool, As Of Right Now All Members Have Either Voted That It Was No Longer Worth The Time/Effort To Maintain the Tool Or The Members Who Actually Used The Tool Have Graduated Hence The Decision To End The Project, It Has Been Fun And We Have Everyone Who Stumbled Across This Project Enjoyed Using It, Feel Free To Check Out Our Other Projects If You Enjoyed This One.**
 
 ---
 The Unblocker Is Powered By Inject0r:
