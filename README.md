@@ -15,7 +15,7 @@ Password: Pass
 
 ----
 
-* Download the latest zip from https://johntebrown.github.io/Source-File-Website/ and follow the README.txt file instructions
+* Download the latest zip from [Deleted Website] and follow the README.txt file instructions
 * open a issue on this github if you encounter errors
 ----
 ### Info For Developers.
